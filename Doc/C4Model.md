@@ -14,7 +14,7 @@ The STM32 runs a [controller-model-view](https://en.wikipedia.org/wiki/Model%E2%
 
 ## Container Diagram
 The lock system features an STM32L4 as the main processor and an [ESP8266](https://www.espressif.com/en/products/socs/esp8266) as an auxiliar for conenction with the internet (see [ESP-Link](https://github.com/jeelabs/esp-link)). The STM32 controls a hex keypad, a VCOM port for debug, an OLED display for GUI, and an LED for mocking the actuator of the lock system.
-![context](structurizr-Container-001.png)
+![context](structurizr-Container-001 (1).png)
 
 ## Code Diagram
 *TODO:* Add the code diagrams here.
