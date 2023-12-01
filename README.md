@@ -34,12 +34,6 @@ This project integrates multiple technologies to create a versatile access contr
 * Compile using the current project settings.
 * Use an ST-LINK to flash the firmware into the STM32.
 
-## Functionality
-* Local access by entering a valid code on the keyboard.
-* Remote access via internet commands, with the ESP8266 module facilitating communication.
-* Presence detection activates the system and can trigger alerts.
-* The system issues alerts in Morse code through a buzzer when it detects presence.
-* Periodic metrics are sent over the Internet every 24 hours using the built-in RTC alarm.
 
 ## Functionality
 * Local access by entering a valid code on the keyboard.
